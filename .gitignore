@@ -1,0 +1,105 @@
+*.class
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+
+# project level
+/logs/
+/run/
+/metastore_db/
+/*.log
+/jobs/
+/zan-repo/
+/drivers/
+/warehouse/
+/notebook/
+!/testing/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# eclipse project files
+**/.classpath
+**/.project
+**/.settings/
+.project
+.settings/
+
+#intelliJ IDEA project files
+.idea/
+*.iml
+
+# maven target files
+target/
+**/target/
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+*.swp
+**/dependency-reduced-pom.xml
+/local-repo/
+
+**/sessions/
+**/data/
+**/build/
+**/testing/
+!/testing/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# eclipse project files
+**/.classpath
+**/.project
+**/.settings/
+.project
+.settings/
+
+#intelliJ IDEA project files
+.idea/
+*.iml
+
+# maven target files
+target/
+**/target/
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+*.swp
+**/dependency-reduced-pom.xml
